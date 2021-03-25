@@ -8,16 +8,16 @@ const softwareEngineer = {
     pronouns: 'he/him',
     currentlyEmployed: false,
     personalInterests: [
-        "Smoking and Grilling Meats 🍗 🍔",
-        "Music 🥁",
-        "Hiking and camping ⛰️ 🏕",
-        "Spending time with my family 👨‍👩‍👧‍👦",
-        "Golfing ⛳️",
-        "Any Water Activities! 🌊 🎣 🤿 🏄‍ 🏊"
+        'Smoking and Grilling Meats 🍗 🍔 ',
+        'Music 🥁 ',
+        'Hiking and camping ⛰️ 🏕 ',
+        'Spending time with my family 👨‍👩‍👧‍👦 ',
+        'Golfing ⛳️ ',
+        'Any Water Activities! 🌊 🎣 🤿 🏄‍ 🏊 '
     ],
     pets: {
-        dog: "Bill Murray the Boston",
-        beardedDragon: "Tango"
+        dog: 'Bill Murray the Boston',
+        beardedDragon: 'Tango'
     }
 }
 ```
@@ -32,7 +32,7 @@ I am a passionate, dedicated individual with a **desire to continuously gain exp
 
 ***
 
-<h3 align="left">🧠 Languages and Tools:</h3>
+<h3 align="left">🧠  Languages and Tools🧠 </h3>
 
 <p align="center">
 <code><img alt='React' title='React' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
@@ -62,7 +62,7 @@ I am a passionate, dedicated individual with a **desire to continuously gain exp
 
 ***
 
-<h3 align="left">🌱 Currently Learning:</h3>
+<h3 align="left">🌱 Currently Learning🌱</h3>
 <p align="center">
 <code><img alt='node.js' title='node' height="75" src="/assets/node.png"></code> &nbsp;&nbsp;
 <code><img alt='express.js' title='express' height="75" src="/assets/express.png"></code> &nbsp;&nbsp;
