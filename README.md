@@ -1,41 +1,66 @@
-### Kevin Hartmann 👋
+## 👋 Welcome 👋
+```
+const softwareEngineer = {
+    name: 'Kevin Hartmann',
+    location: 'Longmont, CO',
+    areaOfFocus: 'Front End',
+    pronouns: 'he/him',
+    currentlyEmployed: false,
+    personalInterests: [
+        "Grilling and Smoking Meats 🍗 🍔",
+        "Hiking and camping ⛰️ 🏕",
+        "Spending time with my family 👨‍👩‍👧‍👦",
+        "Golfing ⛳️",
+        "Any Water Activities! 🌊 🎣 🤿 🏄‍ 🏊"
+    ],
+    pets: {
+        dog: "Bill Murray the Boston",
+        beardedDragon: "Tango"
+    }
+}
+```
+***
 
-Welcome to my GitHub profile! I am a graduate of Front-End Engineering Program at [Turing School of Software & Design](https://turing.io/). 
-
-I am a passionate, dedicated individual with a **desire to continuously gain experience and knowledge**. I have over 10 years of experience _managing and training teams_, working in _fast-paced environments_, and implementing _business strategies_. My goal as a Software Developer is to **gain more experience delivering high-quality production code, production best practices, and organizing solid documentation**. After a few years of experience, I hope to grow into a management role, where I can utilize my technical and management skills to the fullest.  
-
-- 🌱 I’m currently learning about GraphQL and PostgreSQL!
-- 😄 Pronouns: he/him
-- 🔥 Interests outside of Software Development: 
-    - Grilling and Smoking Meats 🍗 🍔
-    - Hiking and camping ⛰️  🏕
-    - Spending time with my family 👨‍👩‍👧‍👦
-    - Golfing ⛳️
-- ✨ Fun fact: I have French Bulldog / Boston Terrier Mix named `Bill Murray` 🐶
+I am a passionate, dedicated individual with a **desire to continuously gain experience and knowledge**. I have over 10 years of experience _managing and training teams_, working in _fast-paced environments_, and implementing _business strategies_. My goal as a Software Developer is to **gain more experience delivering high-quality production code, production best practices, and organizing solid documentation**. After a few years of experience, I hope to grow into a management role, where I can utilize my technical and management skills to the fullest.
 
 ***
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🧠 Languages and Tools:</h3>
 
 <p align="center">
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
+<code><img alt='React' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
+<code><img alt='React Router' height="75" width='75' src="/assets/reactrouter.png"></code> &nbsp;&nbsp;
+<code><img alt='Redux' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
+<code><img alt='GIT' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
+<code><img alt='NPM' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
+<code><img alt='JavaScript' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
+<code><img alt='HTML' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
+<code><img alt='CSS' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
+&nbsp;&nbsp;
+</p>
+<p align="center">
+<code><img alt='bootstrap' height="75" src="/assets/bootstrap.png"></code> &nbsp;&nbsp;
+<code><img alt='SASS' height="75" src="/assets/sass.png"></code> &nbsp;&nbsp;
+<code><img alt='Cypress.io' height="75" src="/assets/cypress.png"></code> &nbsp;&nbsp;
+<code><img alt='Jest' height="75" src="/assets/jest.png"></code> &nbsp;&nbsp;
+<code><img alt='Mocha' height="75" src="/assets/mocha.png"></code> &nbsp;&nbsp;
+<code><img alt='Chai' height="75" src="/assets/chai.jpg"></code> &nbsp;&nbsp;
+</p>
+<p align="center">
+<code><img alt='Heroku' height="75" src="/assets/heroku.png"></code> &nbsp;&nbsp;
+<code><img alt='TravisCI' height="75" src="/assets/travis.png"></code> &nbsp;&nbsp;
+<code><img alt='Google Firebase' height="75" src="/assets/firebase.png"></code> &nbsp;&nbsp;
+<code><img alt='Markdown' height="75" src="/assets/markdown.png"></code> &nbsp;&nbsp;
 </p>
 
-<p align="center">   
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src=" https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
+***
+
+<h3 align="left">🌱 Currently Learning:</h3>
+<p align="center">
+<code><img alt='node.js' height="75" src="/assets/node.png"></code> &nbsp;&nbsp;
+<code><img alt='express.js' height="75" src="/assets/express.png"></code> &nbsp;&nbsp;
+<code><img alt='graphQL' height="75" src="/assets/graphql.png"></code> &nbsp;&nbsp;
+<code><img alt='PostgresSQL' height="75" src="/assets/postgres.png"></code> &nbsp;&nbsp;
 </p>
 
 ***
@@ -53,15 +78,19 @@ I am a passionate, dedicated individual with a **desire to continuously gain exp
   </a>
   &nbsp; &nbsp;
   <a href="mailto:kevinhartmann23@gmail.com">
-    <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"
+    <img alt='ealt='' mail me!' src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="email"
   </a>
   &nbsp; &nbsp;
   <a href="https://twitter.com/kevinhartmann23" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">
+    <img alt='visit my twitter'src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">
   </a>
   &nbsp; &nbsp;
   <a href="https://open.spotify.com/user/kevinhartmann23?si=OuDXJdVIQa2bW0TY9KBw3A&nd=1" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+    <img alt='visit my spotify' src="/assets/spotify.png" width="30px"/>
+  </a>
+   &nbsp; &nbsp;
+   <a href="tel:1-203-889-8429">
+    <img alt='Call me! 203-889-8429'src="/assets/phone.png" width='30px'/>
   </a>
 </p>
 
