@@ -89,10 +89,6 @@ I am a passionate, dedicated individual with a **desire to continuously gain exp
     <img alt='visit my spotify' src="/assets/spotify.png" width="30px"/>
   </a>
    &nbsp; &nbsp;
-   <a href="callto:12038898429">
-    <img alt='Call me! 203-889-8429'src="/assets/phone.png" width='30px'/>
-   </a>
-   &nbsp; &nbsp;
 </p>
 
 <!-- **kevinhartmann23/kevinhartmann23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
