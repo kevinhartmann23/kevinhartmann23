@@ -95,4 +95,3 @@ I am a passionate, dedicated individual with a **desire to continuously gain exp
 </p>
 
 <!-- **kevinhartmann23/kevinhartmann23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-markdown: kramdown
