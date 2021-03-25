@@ -11,7 +11,8 @@ const softwareEngineer = {
     pronouns: 'he/him',
     currentlyEmployed: false,
     personalInterests: [
-        "Grilling and Smoking Meats 🍗 🍔",
+        "Smoking and Grilling Meats 🍗 🍔",
+        "Music 🥁",
         "Hiking and camping ⛰️ 🏕",
         "Spending time with my family 👨‍👩‍👧‍👦",
         "Golfing ⛳️",
