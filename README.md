@@ -28,39 +28,39 @@ I am a passionate, dedicated individual with a **desire to continuously gain exp
 <h3 align="left">🧠 Languages and Tools:</h3>
 
 <p align="center">
-<code><img alt='React' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
-<code><img alt='React Router' height="75" width='75' src="/assets/reactrouter.png"></code> &nbsp;&nbsp;
-<code><img alt='Redux' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-<code><img alt='GIT' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
-<code><img alt='NPM' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
-<code><img alt='JavaScript' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
-<code><img alt='HTML' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
-<code><img alt='CSS' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
+<code><img alt='React' title='React' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
+<code><img alt='React Router' title='React Router' height="75" src="/assets/reactrouter.png"></code> &nbsp;&nbsp;
+<code><img alt='Redux' title='Redux' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
+<code><img alt='GIT' title='Git' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
+<code><img alt='NPM' title='npm' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
+<code><img alt='JavaScript' title='JavaScript' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
+<code><img alt='HTML' title='HTML' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
+<code><img alt='CSS' title='CSS' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
 &nbsp;&nbsp;
 </p>
 <p align="center">
-<code><img alt='bootstrap' height="75" src="/assets/bootstrap.png"></code> &nbsp;&nbsp;
-<code><img alt='SASS' height="75" src="/assets/sass.png"></code> &nbsp;&nbsp;
-<code><img alt='Cypress.io' height="75" src="/assets/cypress.png"></code> &nbsp;&nbsp;
-<code><img alt='Jest' height="75" src="/assets/jest.png"></code> &nbsp;&nbsp;
-<code><img alt='Mocha' height="75" src="/assets/mocha.png"></code> &nbsp;&nbsp;
-<code><img alt='Chai' height="75" src="/assets/chai.jpg"></code> &nbsp;&nbsp;
+<code><img alt='bootstrap' title='Bootstrap' height="75" src="/assets/bootstrap.png"></code> &nbsp;&nbsp;
+<code><img alt='SASS' title='SASS' height="75" src="/assets/sass.png"></code> &nbsp;&nbsp;
+<code><img alt='Cypress.io' title='Cypress.io' height="75" src="/assets/cypress.png"></code> &nbsp;&nbsp;
+<code><img alt='Jest' title='Jest' height="75" src="/assets/jest.png"></code> &nbsp;&nbsp;
+<code><img alt='Mocha' title='Mocha' height="75" src="/assets/mocha.png"></code> &nbsp;&nbsp;
+<code><img alt='Chai' title='Chai' height="75" src="/assets/chai.png"></code> &nbsp;&nbsp;
 </p>
 <p align="center">
-<code><img alt='Heroku' height="75" src="/assets/heroku.png"></code> &nbsp;&nbsp;
-<code><img alt='TravisCI' height="75" src="/assets/travis.png"></code> &nbsp;&nbsp;
-<code><img alt='Google Firebase' height="75" src="/assets/firebase.png"></code> &nbsp;&nbsp;
-<code><img alt='Markdown' height="75" src="/assets/markdown.png"></code> &nbsp;&nbsp;
+<code><img alt='Heroku' title='Heroku' height="75" src="/assets/heroku.png"></code> &nbsp;&nbsp;
+<code><img alt='TravisCI' title='TravisCI' height="75" src="/assets/travis.png"></code> &nbsp;&nbsp;
+<code><img alt='Google Firebase' title='Firebase' height="75" src="/assets/firebase.png"></code> &nbsp;&nbsp;
+<code><img alt='Markdown' title='Markdown' height="75" src="/assets/markdown.png"></code> &nbsp;&nbsp;
 </p>
 
 ***
 
 <h3 align="left">🌱 Currently Learning:</h3>
 <p align="center">
-<code><img alt='node.js' height="75" src="/assets/node.png"></code> &nbsp;&nbsp;
-<code><img alt='express.js' height="75" src="/assets/express.png"></code> &nbsp;&nbsp;
-<code><img alt='graphQL' height="75" src="/assets/graphql.png"></code> &nbsp;&nbsp;
-<code><img alt='PostgresSQL' height="75" src="/assets/postgres.png"></code> &nbsp;&nbsp;
+<code><img alt='node.js' title='node' height="75" src="/assets/node.png"></code> &nbsp;&nbsp;
+<code><img alt='express.js' title='express' height="75" src="/assets/express.png"></code> &nbsp;&nbsp;
+<code><img alt='graphQL' title='graphQL' height="75" src="/assets/graphql.png"></code> &nbsp;&nbsp;
+<code><img alt='PostgresSQL' title='PostgreSQL' height="75" src="/assets/postgres.png"></code> &nbsp;&nbsp;
 </p>
 
 ***
