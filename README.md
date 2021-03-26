@@ -72,6 +72,14 @@ I am a passionate, dedicated individual with a **desire to continuously gain exp
 
 ***
 
+<p align="center"> 
+  <a href="https://open.spotify.com/user/kevinhartmann23?si=OuDXJdVIQa2bW0TY9KBw3A&nd=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=kevinhartmann23&cover_image=true&theme=default"/>
+  </a>
+</p>
+
+***
+
 <h3 align="left">Contact Me:</h3>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/kevin-hartmann" target="_blank" rel="noopener noreferrer">
@@ -86,10 +94,6 @@ I am a passionate, dedicated individual with a **desire to continuously gain exp
     <img alt='visit my twitter'src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">
   </a>
   &nbsp; &nbsp;
-  <a href="https://open.spotify.com/user/kevinhartmann23?si=OuDXJdVIQa2bW0TY9KBw3A&nd=1" target="_blank" rel="noopener noreferrer">
-    <img alt='visit my spotify' src="/assets/spotify.png" width="30px"/>
-  </a>
-   &nbsp; &nbsp;
 </p>
 
 <!-- **kevinhartmann23/kevinhartmann23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
