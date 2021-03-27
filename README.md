@@ -42,10 +42,10 @@ I am a passionate, dedicated individual with a **desire to continuously gain exp
 <code><img alt='NPM' title='npm' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
 <code><img alt='JavaScript' title='JavaScript' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
 <code><img alt='HTML' title='HTML' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
-<code><img alt='CSS' title='CSS' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
-&nbsp;&nbsp;
 </p>
 <p align="center">
+<code><img alt='CSS' title='CSS' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
+&nbsp;&nbsp;
 <code><img alt='bootstrap' title='Bootstrap' height="75" src="/assets/bootstrap.png"></code> &nbsp;&nbsp;
 <code><img alt='SASS' title='SASS' height="75" src="/assets/sass.png"></code> &nbsp;&nbsp;
 <code><img alt='Cypress.io' title='Cypress.io' height="75" src="/assets/cypress.png"></code> &nbsp;&nbsp;
