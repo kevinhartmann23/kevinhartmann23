@@ -80,7 +80,7 @@ I am a passionate, dedicated individual with a **desire to continuously gain exp
 
 ***
 
-<h3 align="left">Contact Me:</h3>
+<h3 align="left">📱 Contact Me📱</h3>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/kevin-hartmann" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px"    alt="LinkedIn">
