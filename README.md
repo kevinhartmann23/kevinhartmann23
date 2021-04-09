@@ -68,6 +68,7 @@ I am a passionate, dedicated individual with a **desire to continuously gain exp
 <code><img alt='express.js' title='express' height="75" src="/assets/express.png"></code> &nbsp;&nbsp;
 <code><img alt='graphQL' title='graphQL' height="75" src="/assets/graphql.png"></code> &nbsp;&nbsp;
 <code><img alt='PostgresSQL' title='PostgreSQL' height="75" src="/assets/postgres.png"></code> &nbsp;&nbsp;
+<code><img alt='python' title='python' height="75" src="/assets/python.png.crdownload"></code> &nbsp;&nbsp;
 </p>
 
 ***
