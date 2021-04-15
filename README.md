@@ -13,7 +13,8 @@ const softwareEngineer = {
         'Hiking and camping ⛰️ 🏕 ',
         'Spending time with my family 👨‍👩‍👧‍👦 ',
         'Golfing ⛳️ ',
-        'Any Water Activities! 🌊 🎣 🤿 🏄‍ 🏊 '
+        'Snowboarding ❄️',
+        'Any Activity in Water! 🌊 🎣 🤿 🏄‍ 🏊 '
     ],
     pets: {
         dog: 'Bill Murray the Boston',
