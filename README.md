@@ -66,13 +66,13 @@ I am a passionate, dedicated individual with a **desire to continuously gain exp
 <p align="center">
 <code><img alt='node.js' title='node' height="75" src="/assets/node.png"></code> &nbsp;&nbsp;
 <code><img alt='express.js' title='express' height="75" src="/assets/express.png"></code> &nbsp;&nbsp;
+<code><img alt='typescript' title='typescript' height="75" src="/assets/typescript.png"></code> &nbsp;&nbsp;
 </p>
 
 ***
 
 <h3 align="left">🌱 Currently Learning🌱</h3>
 <p align="center">
-<code><img alt='typescript' title='typescript' height="75" src="/assets/typescript.png"></code> &nbsp;&nbsp;
 <code><img alt='PostgresSQL' title='PostgreSQL' height="75" src="/assets/postgres.png"></code> &nbsp;&nbsp;
 <code><img alt='python' title='python' height="75" src="/assets/python.png.crdownload"></code> &nbsp;&nbsp;
 </p>
