@@ -16,10 +16,10 @@ const softwareEngineer = {
         'Snowboarding ❄️',
         'Any Activity in Water! 🌊 🎣 🤿 🏄‍ 🏊 '
     ],
-    pets: {
-        dog: 'Bill Murray the Boston',
-        beardedDragon: 'Tango'
-    }
+    pets: [
+        { type: 'Dog', name: 'Bill Murray', breed: 'Boston Terrier / French Bull Dog' },
+        { type: 'Lizard', name: 'Tango', breed: 'Bearded Dragon' }
+    [
 }
 ```
 
