@@ -1,32 +1,5 @@
 ## 👋 Welcome 👋
 
-```
-const softwareEngineer = {
-    name: 'Kevin Hartmann',
-    location: 'Longmont, CO',
-    areaOfFocus: 'Front End',
-    pronouns: 'he/him',
-    currentlyEmployed: false,
-    personalInterests: [
-        'Smoking and Grilling Meats 🍗 🍔 ',
-        'Music 🥁 ',
-        'Hiking and camping ⛰️ 🏕 ',
-        'Spending time with my family 👨‍👩‍👧‍👦 ',
-        'Golfing ⛳️ ',
-        'Snowboarding ❄️',
-        'Any Activity in Water! 🌊 🎣 🤿 🏄‍ 🏊 '
-    ],
-    pets: [
-        { type: 'Dog', name: 'Bill Murray', breed: 'Boston Terrier / French Bull Dog' },
-        { type: 'Lizard', name: 'Tango', breed: 'Bearded Dragon' }
-    [
-}
-```
-
-I am a passionate, dedicated individual with a **desire to continuously gain experience and knowledge**. I have over 10 years of experience _managing and training teams_, working in _fast-paced environments_, and implementing _business strategies_. My goal as a Software Developer is to **gain more experience delivering high-quality production code, production best practices, and organizing solid documentation**. After a few years of experience, I hope to grow into a management role, where I can utilize my technical and management skills to the fullest.
-
-***
-
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=kevinhartmann23&theme=nord&show_icons=true"/>
 </p>
