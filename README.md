@@ -1,12 +1,10 @@
-## 👋 Welcome 👋
+<h3 align="center">👋 Welcome 👋</h3>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=kevinhartmann23&theme=nord&show_icons=true"/>
 </p>
 
-***
-
-<h3 align="left">🧠  Languages and Tools🧠 </h3>
+<h3 align="center">🧠 Languages and Tools 🧠</h3>
 
 <p align="center">
 <code><img alt='React' title='React' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
@@ -44,9 +42,10 @@
 
 ***
 
-<h3 align="left">🌱 Currently Learning🌱</h3>
+<h3 align="center">🌱 Currently Learning 🌱</h3>
 <p align="center">
 <code><img alt='PostgresSQL' title='PostgreSQL' height="75" src="/assets/postgres.png"></code> &nbsp;&nbsp;
+<code><img alt='MongoDB' title='MongoDB' height="75" src="/assets/mongodb.png"></code> &nbsp;&nbsp;
 <code><img alt='python' title='python' height="75" src="/assets/python.png.crdownload"></code> &nbsp;&nbsp;
 </p>
 
@@ -60,7 +59,7 @@
 
 ***
 
-<h3 align="left">📱 Contact Me📱</h3>
+<h3 align="center">📱 Contact Me📱</h3>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/kevin-hartmann" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px"    alt="LinkedIn">
