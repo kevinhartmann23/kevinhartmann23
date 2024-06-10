@@ -38,6 +38,9 @@
 <code><img alt='node.js' title='node' height="75" src="/assets/node.png"></code> &nbsp;&nbsp;
 <code><img alt='express.js' title='express' height="75" src="/assets/express.png"></code> &nbsp;&nbsp;
 <code><img alt='typescript' title='typescript' height="75" src="/assets/typescript.png"></code> &nbsp;&nbsp;
+<code><img alt='datadog' title='DataDog' height="75" src="/assets/datadog.png"></code> &nbsp;&nbsp;
+<code><img alt='pagerduty' title='PagerDuty' height="75" src="/assets/pagerduty.png"></code> &nbsp;&nbsp;
+<code><img alt='githubactions' title='GithubActions' height="75" src="/assets/githubactions.png"></code> &nbsp;&nbsp;
 </p>
 
 ***
