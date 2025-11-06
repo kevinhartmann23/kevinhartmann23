@@ -41,14 +41,14 @@
 <code><img alt='datadog' title='DataDog' height="75" src="/assets/datadog.png"></code> &nbsp;&nbsp;
 <code><img alt='pagerduty' title='PagerDuty' height="75" src="/assets/pagerduty.png"></code> &nbsp;&nbsp;
 <code><img alt='githubactions' title='GithubActions' height="75" src="/assets/githubactions.png"></code> &nbsp;&nbsp;
+<code><img alt='PostgresSQL' title='PostgreSQL' height="75" src="/assets/postgres.png"></code> &nbsp;&nbsp;
+<code><img alt='MongoDB' title='MongoDB' height="75" src="/assets/mongodb.png"></code> &nbsp;&nbsp;
 </p>
 
 ***
 
 <h3 align="center">🌱 Currently Learning 🌱</h3>
 <p align="center">
-<code><img alt='PostgresSQL' title='PostgreSQL' height="75" src="/assets/postgres.png"></code> &nbsp;&nbsp;
-<code><img alt='MongoDB' title='MongoDB' height="75" src="/assets/mongodb.png"></code> &nbsp;&nbsp;
 <code><img alt='python' title='python' height="75" src="/assets/python.png.crdownload"></code> &nbsp;&nbsp;
 </p>
 
